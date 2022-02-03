@@ -1,5 +1,7 @@
 # AI Gesture based IoT Light Control using NVIDA Jetson nano
 
+### YouTube Video:
+
 [![Video Label](http://img.youtube.com/vi/XNbXpT9CPcU/0.jpg)](https://youtu.be/XNbXpT9CPcU)
 
 We used the technologies below.
