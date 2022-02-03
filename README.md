@@ -4,7 +4,8 @@
 
 [![Video Label](http://img.youtube.com/vi/XNbXpT9CPcU/0.jpg)](https://youtu.be/XNbXpT9CPcU)
 
-We used the technologies below.
-* Google's Mediapipe Real-time Hand Landmark model : https://ai.googleblog.com/2019/08/on-...
+### Things used in this project
+
+* Google's Mediapipe Real-time Hand Landmark model :  https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html
 * Philips Heu IoT Light : https://developers.meethue.com/
 * NVIDIA Jetson nano : https://developer.nvidia.com/embedded...
