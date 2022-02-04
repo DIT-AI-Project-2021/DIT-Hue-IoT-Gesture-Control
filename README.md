@@ -8,4 +8,4 @@
 
 * Google's Mediapipe Real-time Hand Landmark model :  https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html
 * Philips Heu IoT Light : https://developers.meethue.com/
-* NVIDIA Jetson nano 2G : https://developer.nvidia.com/embedded...
+* NVIDIA Jetson nano 2G : https://developer.nvidia.com/embedded/jetson-nano-developer-kit
